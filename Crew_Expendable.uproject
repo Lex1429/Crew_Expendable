@@ -29,6 +29,8 @@
 	],
 	"TargetPlatforms": [
 		"Windows",
-		"Mac"
+		"Mac",
+		"Linux",
+		"LinuxArm64"
 	]
 }

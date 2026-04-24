@@ -41,6 +41,10 @@
 		{
 			"Name": "ConsoleVariables",
 			"Enabled": true
+		},
+		{
+			"Name": "MetaxisAITools",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [

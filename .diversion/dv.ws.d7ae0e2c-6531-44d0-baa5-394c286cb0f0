@@ -1,0 +1,15 @@
+{
+  "WorkspaceID": "dv.ws.d7ae0e2c-6531-44d0-baa5-394c286cb0f0",
+  "RepoID": "dv.repo.d2660692-99f0-4044-a50e-36fa57fae477",
+  "Path": "C:\\Users\\Apex1\\Documents\\Unreal Projects\\Crew_Expendable\\Crew_Expendable",
+  "AccountID": "dv.u.1d0e297332c89524",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.8",
+  "Paused": false,
+  "ShouldDownload": false,
+  "RepoName": "CrewExpendable",
+  "ReadOnly": false,
+  "DigestMethod": "sha1",
+  "OrganizationTier": "UNKNOWN"
+}

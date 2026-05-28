@@ -5,11 +5,11 @@
   "AccountID": "dv.u.1d0e297332c89524",
   "BranchID": "dv.branch.1",
   "BranchName": "main",
-  "CommitID": "dv.commit.8",
+  "CommitID": "dv.commit.13",
   "Paused": false,
   "ShouldDownload": false,
   "RepoName": "CrewExpendable",
   "ReadOnly": false,
   "DigestMethod": "sha1",
-  "OrganizationTier": "UNKNOWN"
+  "OrganizationTier": "INDIE"
 }
